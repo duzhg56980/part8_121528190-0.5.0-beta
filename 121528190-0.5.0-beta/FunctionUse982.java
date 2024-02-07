@@ -1,0 +1,7 @@
+import org.apache.hadoop.ozone.om.request.security.OMRenewDelegationTokenRequest;
+public class FunctionUse982 {
+public void funcUse() {
+OMRenewDelegationTokenRequest omrenewdelegationtokenrequest = new OMRenewDelegationTokenRequest();
+omrenewdelegationtokenrequest.preExecute(null);
+}
+}

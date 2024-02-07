@@ -1,0 +1,6 @@
+import org.apache.hadoop.ozone.om.ha.OMHANodeDetails;
+public class FunctionUse848 {
+public void funcUse() {
+OMHANodeDetails omhanodedetails = new OMHANodeDetails();
+}
+}

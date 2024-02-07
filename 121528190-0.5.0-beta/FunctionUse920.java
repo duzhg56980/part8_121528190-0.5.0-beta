@@ -1,0 +1,7 @@
+import org.apache.hadoop.ozone.om.request.s3.multipart.S3InitiateMultipartUploadRequest;
+public class FunctionUse920 {
+public void funcUse() {
+S3InitiateMultipartUploadRequest s3initiatemultipartuploadrequest = new S3InitiateMultipartUploadRequest();
+s3initiatemultipartuploadrequest.preExecute(null);
+}
+}
